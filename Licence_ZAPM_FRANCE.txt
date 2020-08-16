@@ -1,4 +1,4 @@
-ZAPM.json est un jeu de données extrait et adapté d'un jeu de données provenant d'un service public certifié.
+ZAPM_FRANCE est un jeu de données extrait et adapté d'un jeu de données provenant d'un service public certifié.
 
 Source:
 
