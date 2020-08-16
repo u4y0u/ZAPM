@@ -8,6 +8,8 @@ lien url de la dernière version en fichier texte: (fichier > 50 Mo)
 
 [https://github.com/u4y0u/ZAPM-FRANCE/blob/master/url_ZAPM_FRANCE.zip.txt](https://github.com/u4y0u/ZAPM-FRANCE/blob/master/url_ZAPM_FRANCE.zip.txt)
 
+[https://github.com/u4y0u/ZAPM-FRANCE/blob/master/url_ZAPM_FRANCE.zip_variante.txt](https://github.com/u4y0u/ZAPM-FRANCE/blob/master/url_ZAPM_FRANCE.zip_variante.txt) (avec nom des PMZ de zones)
+
 Aperçu:
 
 ZAPM\_FRANCE.png
