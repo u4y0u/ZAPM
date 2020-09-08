@@ -1,2 +1,2 @@
-Version du 16/08/2020
-- Basé sur les données du 2020 T1 V4
+Version du 08/09/2020
+- Basé sur les données du 2020 T2
