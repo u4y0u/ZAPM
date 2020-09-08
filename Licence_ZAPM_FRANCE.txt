@@ -7,7 +7,9 @@ https://www.data.gouv.fr/fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-d
 
 Producteur:
 
-Autorité de régulation des communications électroniques et des postes (ARCEP) 
+Autorité de régulation des communications électroniques et des postes (ARCEP)
+
+L’Autorité de régulation des communications électroniques et des postes (ARCEP) a été créée par la loi du 26 juillet 1996 pour préparer et accompagner l’ouverture à la concurrence du secteur et veiller à la fourniture et au financement du service universel des télécommunications. La loi du 20 mai 2005 relative à la régulation des activités postales a étendu la compétence de l’Autorité au secteur postal. Autorité administrative indépendante, l’ARCEP assure, au nom de l’Etat, et sous le contrôle du Parlement et du juge, la régulation des secteurs des communications électroniques et postales.
 
 https://www.data.gouv.fr/fr/organizations/autorite-de-regulation-des-communications-electroniques-et-des-postes-arcep/#
 
